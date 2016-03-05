@@ -22,5 +22,5 @@ On OSX that would be ~/Library/Preferences/WebStorm{Version}/templates
 
 - Restart WebStorm
 
-#### Template usage guides can be found in the [wiki](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki)
+#### Demos and Template usage guides can be found in the [wiki](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki)
 > The first stable release will be pushed up to the [JetBrains Plugin Repository](https://plugins.jetbrains.com)
