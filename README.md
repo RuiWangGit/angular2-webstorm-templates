@@ -16,6 +16,12 @@ Given that most of us use both an editor & an IDE, every effort will be made to 
 
 ##### Installing the templates
 
+- Download [angular2-webstorm-templates.xml]()
+- Place the XML file in your [templates folder](https://www.jetbrains.com/webstorm/help/project-and-ide-settings.html)
+- Restart WebStorm
+
+> The first stable release will be pushed up to the [JetBrains Plugin Repository](https://plugins.jetbrains.com)
+
 ##### Extending the templates
 
 #### Template Documentation ( In the [wiki](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki) )
