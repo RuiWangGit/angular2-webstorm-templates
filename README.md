@@ -37,3 +37,8 @@
 - [ ] Directives
 - [ ] Attributes
 - [ ] Pipes
+
+
+##Live Templates
+###Angular2
+####Globals
