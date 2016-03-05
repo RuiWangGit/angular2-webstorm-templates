@@ -1,0 +1,10 @@
+<template
+  name="ng2directive"
+  value="@Directive({})&#10;export class Directive {}&#10;$END$"
+  description="Angular2 Directive - Empty"
+  toReformat="false"
+  toShortenFQNames="true">
+  <context>
+    <option name="TypeScript" value="true"/>
+  </context>
+</template>
