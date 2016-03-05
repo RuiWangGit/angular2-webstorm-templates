@@ -1,12 +1,17 @@
 <templateSet group="Angular2 StyleGuide Live Templates">
-  <template name="ng2compComplex" value="import {Component} from 'angular2/core';&#10;&#10;@Component({&#10;  selector: '$PREFIX$-$SELECTOR$',&#10;  providers: [],&#10;  viewProviders: [],&#10;  templateUrl: './$COMPNAME$.html',&#10;  styleUrls: ['./$COMPNAME$.$TYPE$'],&#10;  directives: [],&#10;  pipes: []&#10;})&#10;export class $CLASSNAME$Component {}&#10;$END$" description="Angular2 Component - Complex" toReformat="false" toShortenFQNames="true">
-    <variable name="PREFIX" expression="" defaultValue="&quot;&lt;prefix&gt;&quot;" alwaysStopAt="true" />
-    <variable name="SELECTOR" expression="" defaultValue="&quot;&lt;selector&gt;&quot;" alwaysStopAt="true" />
-    <variable name="COMPNAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
-    <variable name="TYPE" expression="" defaultValue="&quot;css&quot;" alwaysStopAt="true" />
-    <variable name="CLASSNAME" expression="capitalize(SELECTOR)" defaultValue="" alwaysStopAt="false" />
+  <template
+    name="ng2compComplex"
+    value="import {Component} from 'angular2/core';&#10;&#10;@Component({&#10;  selector: '$PREFIX$-$SELECTOR$',&#10;  providers: [],&#10;  viewProviders: [],&#10;  templateUrl: './$COMPNAME$.html',&#10;  styleUrls: ['./$COMPNAME$.$TYPE$'],&#10;  directives: [],&#10;  pipes: []&#10;})&#10;export class $CLASSNAME$Component {}&#10;$END$"
+    description="Angular2 Component - Complex"
+    toReformat="false"
+    toShortenFQNames="true">
+    <variable name="PREFIX" expression="" defaultValue="&quot;&lt;prefix&gt;&quot;" alwaysStopAt="true"/>
+    <variable name="SELECTOR" expression="" defaultValue="&quot;&lt;selector&gt;&quot;" alwaysStopAt="true"/>
+    <variable name="COMPNAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false"/>
+    <variable name="TYPE" expression="" defaultValue="&quot;css&quot;" alwaysStopAt="true"/>
+    <variable name="CLASSNAME" expression="capitalize(SELECTOR)" defaultValue="" alwaysStopAt="false"/>
     <context>
-      <option name="TypeScript" value="true" />
+      <option name="TypeScript" value="true"/>
     </context>
   </template>
 </templateSet>
