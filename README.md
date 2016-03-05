@@ -24,28 +24,4 @@ Given that most of us use both an editor & an IDE, every effort will be made to 
 
 ##### Extending the templates
 
-#### Template Documentation ( In the [wiki](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki) )
-
-**Component Templates**
-* [Empty Componenet](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
-* [Basic Componenet](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
-* [Complex Componenet](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
-* [External Componenet](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
-
-**Directive Templates**
-* [Empty Componenet](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
-* [Basic Componenet](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
-* [Complex Componenet](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
-
-**Route Configuration Templates**
-* [Empty Route Config](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
-* [Basic Route Config](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
-
-**Route Templates**
-* [Empty Route](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
-* [Default Route](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
-* [Redirect Route](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
-* [Param Route](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
-* [Wildcard Route](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
-* [Data Route](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
-* [Parent Route](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
+#### Template usage guides can be found in the [wiki](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki)
