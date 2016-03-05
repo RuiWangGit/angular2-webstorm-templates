@@ -3,42 +3,37 @@
 [![Angular 2 Style Guide](https://mgechev.github.io/angular2-style-guide/images/badge.svg)](https://github.com/mgechev/angular2-style-guide)
 [![Join the chat at https://gitter.im/mgechev/angular2-style-guide](https://badges.gitter.im/mgechev/angular2-style-guide.svg)](https://gitter.im/mgechev/angular2-style-guide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+### Official Webstorm Live Templates Repository
 
-## Planned Templates / Snippets
+Given that most of us use both an editor & an IDE, every effort will be made to ensure that templates / snippets are kept consistant between the offerings supported by the Style Guide Colaborators.
 
-**Planned JS / TS Snippets**
+#### Other Supported Editors
+- [SublimeText Snippets & Completions](https://github.com/evanplaice/angular2-snippets) maintained by @evanplaice & @mgechev
+- [Atom Snippets & Completions](https://github.com/d3viant0ne/angular2-atom-snippets) maintained by @d3viant0ne & @mgechev
+- [Visual Studio Code Snippets & Completions](https://github.com/mgechev/angular2-style-guide/issues/15) Needs a maintainer
 
-- [ ] Components
-- [ ] Directives
-- [ ] Pipes
-- [ ] Services
-- [ ] RouteConfig
-- [ ] Route
-- [ ] Test
+#### Documentation ( In the wiki )
 
+**Component Templates**
+* [Empty Componenet](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
+* [Basic Componenet](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
+* [Complex Componenet](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
+* [External Componenet](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
 
-**Planned HTML Snippets**
+**Directive Templates**
+* [Empty Componenet](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
+* [Basic Componenet](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
+* [Complex Componenet](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
 
-- [ ] ngFor
-- [ ] ngIF
-- [ ] ngSwitch
-- [ ] ngSwitchWhen
-- [ ] ngSwitchDefault
-- [ ] ngClass
-- [ ] ngModel
-- [ ] ngForm
+**Route Configuration Templates**
+* [Empty Route Config](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
+* [Basic Route Config](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
 
-**Completion Categories** 
-
-- [ ] Annotations
-- [ ] Decorators
-- [ ] Lifecycle
-- [ ] Routing
-- [ ] Directives
-- [ ] Attributes
-- [ ] Pipes
-
-
-##Live Templates
-###Angular2
-####Globals
+**Route Templates**
+* [Empty Route](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
+* [Default Route](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
+* [Redirect Route](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
+* [Param Route](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
+* [Wildcard Route](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
+* [Data Route](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
+* [Parent Route](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
