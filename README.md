@@ -12,7 +12,13 @@ Given that most of us use both an editor & an IDE, every effort will be made to 
 - [Atom Snippets & Completions](https://github.com/d3viant0ne/angular2-atom-snippets) maintained by @d3viant0ne & @mgechev
 - [Visual Studio Code Snippets & Completions](https://github.com/mgechev/angular2-style-guide/issues/15) Needs a maintainer
 
-#### Documentation ( In the [wiki](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki) )
+#### Getting Started
+
+##### Installing the templates
+
+##### Extending the templates
+
+#### Template Documentation ( In the [wiki](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki) )
 
 **Component Templates**
 * [Empty Componenet](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki/Component-Templates)
