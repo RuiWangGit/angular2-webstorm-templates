@@ -1,0 +1,19 @@
+{
+  "name": "angular2-webstorm-templates",
+  "version": "0.0.0",
+  "description": "Angular2 Live Templates for Mgechev's Community Driven Styleguide",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3viant0ne/angular2-webstorm-templates.git"
+  },
+  "contributors": [
+    "Joshua Wiens <@d3viant0ne>",
+    "Evan Plaice <@evanplaice>",
+    "Minko Gechev <@mgechev>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d3viant0ne/angular2-webstorm-templates/issues"
+  },
+  "homepage": "https://github.com/d3viant0ne/angular2-webstorm-templates#readme"
+}
