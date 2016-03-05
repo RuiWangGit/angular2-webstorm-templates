@@ -1,8 +1,10 @@
-# ![Angular 2 Style Guide](https://raw.githubusercontent.com/mgechev/angular2-style-guide/master/assets/logo.png) Angular 2 Style Guide WebStorm Live Templates
+# ![Angular 2 Style Guide](https://raw.githubusercontent.com/mgechev/angular2-style-guide/master/assets/logo.png) Angular 2 Style Guide WebStorm Snippets
 
 [![Angular 2 Style Guide](https://mgechev.github.io/angular2-style-guide/images/badge.svg)](https://github.com/mgechev/angular2-style-guide)
 [![Join the chat at https://gitter.im/mgechev/angular2-style-guide](https://badges.gitter.im/mgechev/angular2-style-guide.svg)](https://gitter.im/mgechev/angular2-style-guide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+
+## Planned Templates / Snippets
 
 **Planned JS / TS Snippets**
 
