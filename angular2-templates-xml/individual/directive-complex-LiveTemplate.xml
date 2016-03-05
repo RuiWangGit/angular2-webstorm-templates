@@ -1,0 +1,13 @@
+<template
+  name="ng2directiveComplex"
+  value="@Directive({&#10;  selector: '$PREFIX$-$SELECTOR$',&#10;  providers: [],&#10;  properties: ['']&#10;})&#10;export class $CLASSNAME$Directive {}&#10;$END$"
+  description="Angular2 Directive - Complex"
+  toReformat="false"
+  toShortenFQNames="true">
+  <variable name="PREFIX" expression="" defaultValue="&quot;&lt;prefix&gt;&quot;" alwaysStopAt="true"/>
+  <variable name="SELECTOR" expression="" defaultValue="&quot;&lt;selector&gt;&quot;" alwaysStopAt="true"/>
+  <variable name="CLASSNAME" expression="capitalize(SELECTOR)" defaultValue="" alwaysStopAt="false"/>
+  <context>
+    <option name="TypeScript" value="true"/>
+  </context>
+</template>
