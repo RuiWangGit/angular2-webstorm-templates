@@ -1,6 +1,6 @@
-<template
+<template 
   name="ng2service"
-  value="@Injectable()&#10;export class $SERVICENAME$ {}&#10;$END$"
+  value="@Injectable()&#10;export class $SERVICENAME$Service {}&#10;$END$"
   description="Angular2 Service - Empty"
   toReformat="false"
   toShortenFQNames="true">
