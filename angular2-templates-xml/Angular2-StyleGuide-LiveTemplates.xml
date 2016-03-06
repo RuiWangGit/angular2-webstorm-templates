@@ -86,9 +86,22 @@
     </context>
   </template>
 
-  <!-- Route Configuration -->
+  <!-- Service Templates -->
+  <template
+    name="ng2service"
+    value="@Injectable()&#10;export class $SERVICENAME$ {}&#10;$END$"
+    description="Angular2 Service - Empty"
+    toReformat="false"
+    toShortenFQNames="true">
+    <variable name="SERVICENAME" expression="" defaultValue="&quot;&lt;ServiceName&gt;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  
+  <!-- Route Configuration Templates -->
 
-  <!-- Routing -->
+  <!-- Routing Templates -->
 
   <!-- User Custom Live Templates -->
 
