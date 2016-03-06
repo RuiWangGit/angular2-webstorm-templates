@@ -5,7 +5,7 @@
   toReformat="false"
   toShortenFQNames="true">
   <variable name="SELECTOR" expression="" defaultValue="&quot;&lt;selector&gt;&quot;" alwaysStopAt="true"/>
-  <variable name="CLASSNAME" expression="capitalize(SELECTOR)" defaultValue="" alwaysStopAt="false"/>
+  <variable name="CLASSNAME" expression="capitalize(SELECTOR)" defaultValue="" alwaysStopAt="true"/>
   <context>
     <option name="TypeScript" value="true"/>
   </context>
