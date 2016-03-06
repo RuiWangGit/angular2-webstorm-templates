@@ -1,0 +1,12 @@
+<template
+  name="ng2model"
+  value="[(ngModel)]=&quot;$NAME$&quot;"
+  description="Angular2 Model - Built In HTML Directive"
+  toReformat="false"
+  toShortenFQNames="true">
+  <variable name="NAME" expression="" defaultValue="&quot;modelName&quot;" alwaysStopAt="true"/>
+  <context>
+    <option name="HTML_TEXT" value="true"/>
+    <option name="HTML" value="true"/>
+  </context>
+</template>
