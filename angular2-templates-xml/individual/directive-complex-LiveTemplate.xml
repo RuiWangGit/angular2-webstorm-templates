@@ -1,6 +1,6 @@
 <template
   name="ng2directiveComplex"
-  value="@Directive({&#10;  selector: '$PREFIX$-$SELECTOR$',&#10;  providers: [],&#10;  properties: ['']&#10;})&#10;export class $CLASSNAME$Directive {}&#10;$END$"
+  value="@Directive({&#10;  selector: '$SELECTOR$',&#10;  providers: [],&#10;  properties: ['']&#10;})&#10;export class $CLASSNAME$Directive {}&#10;$END$"
   description="Angular2 Directive - Complex"
   toReformat="false"
   toShortenFQNames="true">
