@@ -117,6 +117,16 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="ng2for"
+    value="*ngFor=&quot;$SELECTION$&quot;"
+    description="Angular2 ngFor - Built In HTML Directive"
+    toReformat="false"
+    toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
   <template
     name="ng2if"
     value="*ngIf=&quot;$SELECTION$&quot;"
