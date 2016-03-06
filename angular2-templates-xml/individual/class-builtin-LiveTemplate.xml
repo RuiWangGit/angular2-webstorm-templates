@@ -1,0 +1,13 @@
+<template
+  name="ng2class"
+  value="[(ngClass)]=&quot;{$CLASSNAME$: $MAPVALUE$}&quot;"
+  description="Angular2 Class - Built In HTML Directive"
+  toReformat="false"
+  toShortenFQNames="true">
+  <variable name="CLASSNAME" expression="" defaultValue="&quot;class-name&quot;" alwaysStopAt="true" />
+  <variable name="MAPVALUE" expression="" defaultValue="&quot;mapValue&quot;" alwaysStopAt="true" />
+  <context>
+    <option name="HTML_TEXT" value="true" />
+    <option name="HTML" value="true" />
+  </context>
+</template>
