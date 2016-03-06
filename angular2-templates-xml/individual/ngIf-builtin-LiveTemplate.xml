@@ -1,0 +1,12 @@
+<template
+  name="ng2if"
+  value="*ngIf=&quot;$SELECTION$&quot;"
+  description="Angular2 ngIf - Built In HTML Directive"
+  toReformat="false"
+  toShortenFQNames="true">
+  <variable name="SELECTION" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+  <context>
+    <option name="HTML_TEXT" value="true" />
+    <option name="HTML" value="true" />
+  </context>
+</template>
