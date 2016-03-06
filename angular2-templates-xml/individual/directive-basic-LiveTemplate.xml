@@ -4,7 +4,6 @@
   description="Angular2 Directive - Basic"
   toReformat="false"
   toShortenFQNames="true">
-  <variable name="PREFIX" expression="" defaultValue="&quot;&lt;prefix&gt;&quot;" alwaysStopAt="true"/>
   <variable name="SELECTOR" expression="" defaultValue="&quot;&lt;selector&gt;&quot;" alwaysStopAt="true"/>
   <variable name="CLASSNAME" expression="capitalize(SELECTOR)" defaultValue="" alwaysStopAt="false"/>
   <context>
