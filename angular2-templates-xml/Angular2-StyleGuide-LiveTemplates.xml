@@ -163,6 +163,18 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template
+    name="ng2switchWhen"
+    value="[ngSwitch]=&quot;$EXPRESSION$&quot;"
+    description="Angular2 ngSwitchWhen - Built In HTML Directive"
+    toReformat="false"
+    toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="&quot;caseExpression&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 
   <!-- User Custom Live Templates -->
 
