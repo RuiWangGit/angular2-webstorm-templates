@@ -1,0 +1,14 @@
+<template 
+  name="ng2pipeBasic"
+  value="@Pipe({&#10;  name: '$PREFIX$$PIPENAME$'&#10;})&#10;class $CLASSNAME$Pipe implements PipeTransform {&#10;  transform(input: any): any {&#10;    $CODE$&#10;  }&#10;}&#10;$END$"
+  description="Angular2 Pipe - Basic"
+  toReformat="false"
+  toShortenFQNames="true">
+  <variable name="PREFIX" expression="" defaultValue="&quot;&lt;prefix&gt;&quot;" alwaysStopAt="true" />
+  <variable name="PIPENAME" expression="" defaultValue="&quot;PipeName&quot;" alwaysStopAt="true" />
+  <variable name="CLASSNAME" expression="capitalize(PIPENAME)" defaultValue="&quot;ClassName&quot;" alwaysStopAt="false" />
+  <variable name="CODE" expression="" defaultValue="&quot;// Code here&quot;" alwaysStopAt="true" />
+  <context>
+    <option name="TypeScript" value="true" />
+  </context>
+</template>
