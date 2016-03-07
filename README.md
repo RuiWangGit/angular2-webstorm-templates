@@ -13,6 +13,7 @@ Given that most of us use both an editor & an IDE, every effort will be made to 
 - [Visual Studio Code Snippets & Completions](https://github.com/mgechev/angular2-style-guide/issues/15) Needs a maintainer
 
 #### Getting Started
+
 ##### Demos and Template usage guides can be found in the [wiki](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki)
 
 ##### Installing the templates
