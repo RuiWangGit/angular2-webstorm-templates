@@ -1,0 +1,12 @@
+<template
+  name="ng2routeRedirect"
+  value="{ path: '/$PATH$', redirectTo: ['/$NAME$'] }&#10;$END$"
+  description="Angular2 Route - Redirect"
+  toReformat="false"
+  toShortenFQNames="true">
+  <variable name="PATH" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+  <variable name="NAME" expression="" defaultValue="&quot;Name&quot;" alwaysStopAt="true" />
+  <context>
+    <option name="TypeScript" value="true" />
+  </context>
+</template>
