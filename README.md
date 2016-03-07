@@ -13,6 +13,7 @@ Given that most of us use both an editor & an IDE, every effort will be made to 
 - [Visual Studio Code Snippets & Completions](https://github.com/mgechev/angular2-style-guide/issues/15) Needs a maintainer
 
 #### Getting Started
+##### Demos and Template usage guides can be found in the [wiki](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki)
 
 ##### Installing the templates
 
@@ -22,12 +23,11 @@ Given that most of us use both an editor & an IDE, every effort will be made to 
 
 - Restart WebStorm
 
+> The first stable release will be pushed up to the [JetBrains Plugin Repository](https://plugins.jetbrains.com)
+
 ##### Customizing & Extending
 While there is a commented section for custom additions to the templates, WebStorm/IntelliJ will reformat the XML file as soon as you edit a template & save.
 
 I would highly suggest you commit customizations to a fork of this repo and copy the file into your templates folder. It will make picking up changes from ~HEAD much less painful.
 
 More information on the topic can be found [here](https://github.com/d3viant0ne/angular2-webstorm-templates/wiki)
-
-#### Demos and Template usage guides can be found in the [wiki](https://github.com/d3viant0ne/angular2-webstorm-snippets/wiki)
-> The first stable release will be pushed up to the [JetBrains Plugin Repository](https://plugins.jetbrains.com)
