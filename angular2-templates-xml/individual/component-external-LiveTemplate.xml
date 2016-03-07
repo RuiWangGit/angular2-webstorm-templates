@@ -1,7 +1,7 @@
 <templateSet group="Angular2 StyleGuide Live Templates">
   <template
     name="ng2compExternal"
-    value="import {Component} from 'angular2/core';&#10;&#10;@Component({&#10;  selector: '$PREFIX$-$SELECTOR$',&#10;  templateUrl: './$COMPNAME$.html',&#10;  styleUrls: ['./$COMPNAME$.$TYPE$']&#10;})&#10;export class $CLASSNAME$Component {}&#10;$END$"
+    value="@Component({&#10;  selector: '$PREFIX$-$SELECTOR$',&#10;  templateUrl: './$COMPNAME$.html',&#10;  styleUrls: ['./$COMPNAME$.$TYPE$']&#10;})&#10;export class $CLASSNAME$Component {}&#10;$END$"
     description="Angular2 Component - External"
     toReformat="false"
     toShortenFQNames="true">

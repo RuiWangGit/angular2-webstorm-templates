@@ -1,7 +1,7 @@
 <templateSet group="Angular2 StyleGuide Live Templates">
   <template
     name="ng2compBasic"
-    value="import {Component} from 'angular2/core';&#10;&#10;@Component({&#10;  selector: '$PREFIX$-$SELECTOR$',&#10;  template: './$COMPNAME$.html',&#10;  styles: ['']&#10;})&#10;export class $CLASSNAME$Component {}&#10;$END$"
+    value="@Component({&#10;  selector: '$PREFIX$-$SELECTOR$',&#10;  template: './$COMPNAME$.html',&#10;  styles: ['']&#10;})&#10;export class $CLASSNAME$Component {}&#10;$END$"
     description="Angular2 Component - Basic"
     toReformat="false"
     toShortenFQNames="true">
