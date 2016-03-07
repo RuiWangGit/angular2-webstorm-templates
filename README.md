@@ -18,7 +18,7 @@ Given that most of us use both an editor & an IDE, every effort will be made to 
 
 - Clone repo or download [Angular2-StyleGuide-LiveTemplates.xml](https://github.com/d3viant0ne/angular2-webstorm-templates/blob/master/angular2-templates-xml/Angular2-StyleGuide-LiveTemplates.xml) individual templates are also [available here](https://github.com/d3viant0ne/angular2-webstorm-templates/tree/master/angular2-templates-xml/individual)
 - Place the XML file in your [templates folder](https://www.jetbrains.com/webstorm/help/project-and-ide-settings.html)
-On OSX that would be ~/Library/Preferences/WebStorm{Version}/templates
+: On OSX that would be ~/Library/Preferences/WebStorm{Version}/templates
 
 - Restart WebStorm
 
