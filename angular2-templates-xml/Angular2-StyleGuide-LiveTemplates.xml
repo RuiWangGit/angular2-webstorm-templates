@@ -100,6 +100,19 @@
   </template>
 
   <!-- Route Configuration Templates -->
+  <template
+    name="ng2routeConfigBasic"
+    value="@RouteConfig([&#10;  { path: '/$PATH$', name: '$NAME$', component: $COMPONENT$Component, useAsDefault: true }&#10;])"
+    description="Angular2 Route Config - Basic"
+    toReformat="false"
+    toShortenFQNames="true">
+    <variable name="PATH" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="&quot;Name&quot;" alwaysStopAt="true" />
+    <variable name="COMPONENT" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 
   <!-- Routing Templates -->
   <template
