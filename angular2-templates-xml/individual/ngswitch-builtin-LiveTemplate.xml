@@ -1,0 +1,12 @@
+<template
+  name="ng2switch"
+  value="[ngSwitch]=&quot;$EXPRESSION$&quot;"
+  description="Angular2 ngSwitch - Built In HTML Directive"
+  toReformat="false"
+  toShortenFQNames="true">
+  <variable name="EXPRESSION" expression="" defaultValue="&quot;conditionalExpression&quot;" alwaysStopAt="true" />
+  <context>
+    <option name="HTML_TEXT" value="true" />
+    <option name="HTML" value="true" />
+  </context>
+</template>
