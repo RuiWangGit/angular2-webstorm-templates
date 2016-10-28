@@ -1,6 +1,6 @@
 <templateSet group="Angular2 StyleGuide Live Templates">
   <!-- Components -->
-  <template name="ng2comp" value="@Component({})&#10;export class Component {}&#10;$END$" description="Angular2 Component - Empty" toReformat="false" toShortenFQNames="true">
+  <template name="ng2comp" value="import { Component, OnInit } from '@angular/core';&#10;@Component({})&#10;export class Component {}&#10;$END$" description="Angular2 Component - Empty" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true"/>
     </context>
